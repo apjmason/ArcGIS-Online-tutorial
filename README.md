@@ -1,6 +1,8 @@
 # ArcGIS Online Tutorial
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
+
+This version modified by <a href="https://www.carleton.edu/digital-humanities/who-we-are/mason/" rel="cc:attributionURL">Austin Mason, Director of Digital Arts & Humanities (Carleton College)</a>. Forked from the original 
 Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc:attributionURL">Katherine Walden, Digital Liberal Arts Specialist (Grinnell College)</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 <hr />
